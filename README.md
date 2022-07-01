@@ -8,7 +8,7 @@
 
 ## Backend
 - Furn is connected to a mongoDB Cluster using a custom build API.
-- The APi is build on nest.js and mongoose.
+- The API is build on nest.js and mongoose.
 
 # Screens
 
