@@ -14,4 +14,4 @@
 
 ![Image1](images/comb_2.jpg)
 
-<video src="https://github.com/sahilsaleem2907/Furn/blob/1c130fcc7ff88aed4b20d0d98be77a966e9fa009/images/walkthrough.mp4"></video>
+<video src="https://i.imgur.com/a/5289Qpn"></video>
