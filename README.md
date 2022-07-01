@@ -14,5 +14,5 @@
 
 ![Image1](images/comb_2.jpg)
 
-<img src="https://i.imgur.com/xcB0Pti.mp4" width="600" height="200" />
+<img src="https://imgur.com/G5Cmxzl.gif" width="600" height="200" />
 <video src="https://i.imgur.com/xcB0Pti.mp4"></video>
