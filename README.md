@@ -1,3 +1,3 @@
 # Furn
 
-![Image1](images/comb_1.jpg)
+![Image1](images/comb_2.jpg)
