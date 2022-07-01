@@ -14,5 +14,8 @@
 
 ![Image1](images/comb_2.jpg)
 
+<video src="https://user-images.githubusercontent.com/70108175/176833744-a1a1c9d1-a9e7-4358-a145-b543954fb67e.mp4"></video>
+
+
+
 <img src="https://imgur.com/G5Cmxzl.gif" width="600" height="1000" />
-<video src="https://i.imgur.com/xcB0Pti.mp4"></video>
