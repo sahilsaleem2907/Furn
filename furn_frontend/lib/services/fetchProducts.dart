@@ -7,7 +7,7 @@ import '../models/Product.dart';
 // Fetch our Products from API
 Future<List<Product>> fetchProducts() async {
   List<Product> list;
-  String link = "https://9d9e-202-164-138-65.ngrok.io/data";
+  String link = "";
   var res = await http
       .get(Uri.encodeFull(link), headers: {"Accept": "application/json"});
   if (res.statusCode == 200) {
