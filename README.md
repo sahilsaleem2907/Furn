@@ -1,5 +1,5 @@
 # Furn
-- Furn is an Augmented Reality Furniture app that will be to create beautiful AR model of the given products.
+- Furn is an Augmented Reality Furniture app that will create beautiful AR models of the given products.
 
 ## Front End
 - The application is fully coded in flutter and uses an API to get all the products.
