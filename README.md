@@ -1,5 +1,6 @@
 # Furn
 - Furn is an Augmented Reality Furniture app that will create beautiful AR models of the given products.
+- [![video](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)][website]
 
 ## Front End
 - The application is fully coded in flutter and uses an API to get all the products.
@@ -15,5 +16,5 @@
 ![Image1](images/comb_2.jpg)
 
 
-<video src="https://user-images.githubusercontent.com/70108175/176833744-a1a1c9d1-a9e7-4358-a145-b543954fb67e.mp4"></video> 
+[website]: https://user-images.githubusercontent.com/70108175/176833744-a1a1c9d1-a9e7-4358-a145-b543954fb67e.mp4
 
